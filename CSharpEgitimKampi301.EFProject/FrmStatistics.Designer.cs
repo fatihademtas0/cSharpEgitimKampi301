@@ -275,7 +275,7 @@
 			// 
 			this.lblCountry.AutoSize = true;
 			this.lblCountry.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-			this.lblCountry.Location = new System.Drawing.Point(75, 79);
+			this.lblCountry.Location = new System.Drawing.Point(74, 79);
 			this.lblCountry.Name = "lblCountry";
 			this.lblCountry.Size = new System.Drawing.Size(36, 25);
 			this.lblCountry.TabIndex = 1;
